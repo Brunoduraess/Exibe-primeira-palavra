@@ -1,6 +1,6 @@
 <?php
 
-$texto = "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.";
+$texto = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.";
 
 preg_match('/\b\w+\b/i', $texto, $result);
 
